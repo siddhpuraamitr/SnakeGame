@@ -14,7 +14,7 @@ b = new ImageIcon("/Users/Amit/Desktop/My Netbean Projects/battlefield/src/battl
 
 Screenshots
 
-You can play with up, down, right and left aerrow
+You can play with up, down, right and left arrow
 
 ![Alt text](https://github.com/siddhpuraamitr/SnakeGame/blob/master/screenshots/Screen%20Shot%202016-05-30%20at%203.29.50%20PM.png "Optional title")
 
